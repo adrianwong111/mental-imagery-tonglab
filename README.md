@@ -1,10 +1,10 @@
 # mental-imagery-tonglab
-This repository contains the PsychToolbox stimuli generation and experiment code used in a 
-study of the effect of spatial frequency and stimulus complexity on mental imagery vividness. 
-The experiment stimuli consisted of gabors of varying spatial frequency and faces that
-were low-pass filtered, high-pass filtered, and not filtered. Participant imagery vividness 
-was evaluated using the binocular rivalry paradigm of Pearson et al. (2008) as well as the 
-VVIQ2 (Marks 1995).
+This repository contains the PsychToolbox stimuli generation, experiment, and data analysis 
+code used in a study of the effect of spatial frequency and stimulus complexity on mental 
+imagery vividness. The experiment stimuli consisted of gabors of varying spatial frequency 
+and faces that were low-pass filtered, high-pass filtered, and not filtered. Participant 
+imagery vividness was evaluated using the binocular rivalry paradigm of Pearson et al. (2008) 
+as well as the VVIQ2 (Marks 1995).
 
 Abstract:
 Mental imagery has been characterized as the isolation of the feedback process that
